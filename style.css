@@ -9,8 +9,7 @@ html {
 }
 
 body {
-	margin:0;
-	padding:0;
+	
 	text-align: center;
 	font-family: avenir, helvetica, sans-serif;
 	background-color: #ffffff;
@@ -41,8 +40,7 @@ p {
 	color: #777777;
 	text-align: justify;
 	padding-bottom: 20pt;
-	padding-left: 40px;
-	padding-right: 40px;	
+		
 	
 	
 	
@@ -60,6 +58,15 @@ body {
 	background-color: #ffffff;
 }
 
+p {
+	color: #777777;
+	text-align: justify;
+	padding-bottom: 20pt;
+	padding-left: 40px;
+	padding-right: 40px;	
 	
+	
+	
+}
 
 }
