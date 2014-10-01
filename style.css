@@ -32,7 +32,7 @@ body {
 	top: 15px;*/
 	line-height: 1.3em;
 	padding-top: 2.5em;
-	padding-left: 40px;
+	padding-left: 10px;
 
 }
 
@@ -68,6 +68,17 @@ p {
 	
 	
 	
+}
+
+#title {
+	color:#686868;
+	font-size: 22px;
+	text-align: left;
+	/*position: relative;
+	top: 15px;*/
+	line-height: 1.3em;
+	padding-top: 2.5em;
+	padding-left: 40px;
 }
 
 }
