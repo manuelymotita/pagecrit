@@ -1,6 +1,7 @@
 html {
 	background-color: #F4F4F4;
 	width: 100%;
+	
 }
 
 #page-wrapper{
@@ -42,9 +43,7 @@ p {
 	padding-bottom: 20pt;
 	padding-left: 10px;
 	padding-right: 10px;	
-	
-	
-	
+	border-bottom: 1px solid #E4E1DB;	
 }
 
 
@@ -65,9 +64,7 @@ p {
 	padding-bottom: 20pt;
 	padding-left: 40px;
 	padding-right: 40px;	
-	
-	
-	
+	border-bottom: 1px solid #E4E1DB;	
 }
 
 #title {
