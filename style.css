@@ -37,13 +37,28 @@ body {
 
 }
 
+a:link {
+	color:#686868;
+	text-decoration: none;
+
+}
+
+a:visited{
+	color:#686868;
+}
+
+a:hover{
+	color:#eaeaea;
+}
+
 p {
 	color: #777777;
 	text-align: justify;
 	padding-bottom: 20pt;
 	padding-left: 10px;
 	padding-right: 10px;	
-	border-bottom: 1px solid #E4E1DB;	
+	border-bottom: 1px solid #E4E1DB;
+	line-height: 150%;	
 }
 
 
